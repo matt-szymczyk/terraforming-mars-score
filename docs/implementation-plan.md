@@ -15,7 +15,7 @@ Default to zero scores, 3–5 players, Turmoil off. Reset requires confirmation 
 - [x] Accessible calculator: `site/index.html`, `site/app.js`, `site/style.css`; browser tests for scoring, language, confirmation, invalid input and mobile layouts.
 - [x] Offline and release: `site/offline.js`, `site/sw.js`, `scripts/build.js`; browser tests for successful and failed caching, reopening offline and updates that preserve scores.
 - [x] Documentation, GitHub Actions, independent review and a complete fresh test run.
-- [ ] Public deployment and verification of the live HTTPS address. Repository setup is complete; the first deployment is in progress.
+- [x] Public deployment and verification of the live HTTPS address: https://matt-szymczyk.github.io/terraforming-mars-score/.
 
 ## Verification
 

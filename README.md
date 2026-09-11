@@ -2,7 +2,7 @@
 
 A mobile-friendly final-score calculator for one player in the classic multiplayer board game. Available in **English and Polish**, with device-local saving and offline access.
 
-Intended GitHub Pages URL: [matt-szymczyk.github.io/terraforming-mars-score/](https://matt-szymczyk.github.io/terraforming-mars-score/).
+Live site: [matt-szymczyk.github.io/terraforming-mars-score/](https://matt-szymczyk.github.io/terraforming-mars-score/).
 
 ## Count a score
 
