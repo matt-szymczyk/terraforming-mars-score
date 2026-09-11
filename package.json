@@ -1,0 +1,19 @@
+{
+  "name": "terraforming-mars-score",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An offline end-game score calculator for Terraforming Mars, in English and Polish.",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "test:e2e": "playwright test",
+    "build": "node scripts/build.js",
+    "dev": "node scripts/serve.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0"
+  }
+}
